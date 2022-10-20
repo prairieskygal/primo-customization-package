@@ -11,4 +11,4 @@ jobs:
               uses: actions/upload-artifact@v3
               with:
                   name: 01JHU_INST-01JHU_INST
-                  path: ./01JHU_INST-01JHU_INST
+                  path: ../**/01JHU_INST-01JHU_INST

@@ -1,7 +1,43 @@
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  font-family: 'Gentona', 'Tahoma', sans-serif;
 }
 
+/**
+ * @license
+ * MyFonts Webfont Build ID 2792584, 2014-04-10T13:17:10-0400
+ *
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are
+ * explicitly restricted from using the Licensed Webfonts(s).
+ *
+ * License: http://www.myfonts.com/viewlicense?type=web&buildid=2792584
+ * Licensed pageviews: 1,000,000
+ *
+ * © 2014 MyFonts Inc
+*/
+
+/* @import must be at top of file, otherwise CSS will not work */
+/* @import url("//hello.myfonts.net/count/2a9c88"); */
+
+
+
+
+/*////////////////////////////////////////////////////////////////////////////*/
+/*/// GENTONA ////////////////////////////////////////////////////////////////*/
+/*////////////////////////////////////////////////////////////////////////////*/
+
+@font-face {
+  font-family: "gentona";
+  font-weight: 300;
+  src: url("../webfonts/Gentona-Light.ttf");
+  font-style: normal;
+}
+@font-face {
+  font-family: "gentona";
+  src: url("../webfonts/Gentona-Medium.ttf");
+  font-weight: 500;
+  font-style: normal;
+}
 
 /* primary color hook */
 /* commenttttt*/
